@@ -1,2 +1,12 @@
-# desplieguedeservidores_practica
-Práctica de despliegue de servidores. Keepcoding Full Stack Web
+#Práctica del curso de DevOps
+
+Ejercicio 1:
+```
+node.elisabetdacostaalmiron.com
+react.elisabetdacostaalmiron.com
+```
+
+Ejercicio 2     
+```
+ip: 44.202.90.196
+``` 
